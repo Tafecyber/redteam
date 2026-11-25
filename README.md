@@ -16,7 +16,7 @@ classroom exercise** against the pfSense WAN addresses the teacher handed out.
   own box banned.
 
 ## Expecting zero findings is the normal, passing result
-Your teacher said 9 times out of 10 you'll find nothing, and that's the point:
+9 times out of 10 you'll find nothing, and that's the point:
 these scripts are built to **prove the controls held**, with timestamped
 evidence. "Two open ports, no default creds, everything else filtered" is a
 complete, markable result — write it up as a clean perimeter, not a failure.
